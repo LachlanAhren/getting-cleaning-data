@@ -9,9 +9,12 @@
   * LAYING
 1. activityid
 
- Activity ID value for easy joining
+ Activity ID value for easy joining to original data
 1. subject
-   Subject ID
+
+ ID for subject who participated in the activities
+
+The means of means and std deviations were taken by subject and activity
 1. mean.tbodyacc-mean-z
 1. mean.tbodyacc-std-y
 1. mean.tgravityacc-mean-x
