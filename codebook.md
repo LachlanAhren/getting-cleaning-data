@@ -1,3 +1,5 @@
+The means of means and std deviations were taken by subject and activity.  These are formatted as mean.activity-variable
+
 1. activitytype
 
  Activity Label
@@ -13,8 +15,6 @@
 1. subject
 
  ID for subject who participated in the activities
-
-The means of means and std deviations were taken by subject and activity
 1. mean.tbodyacc-mean-z
 1. mean.tbodyacc-std-y
 1. mean.tgravityacc-mean-x
