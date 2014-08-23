@@ -51,3 +51,4 @@ read_datasets <- function() {
 }
 retrieve_file()
 full_data <- read_datasets()
+write.table(full_data, file = "means_of_activities.txt", row.names = FALSE)
