@@ -1,5 +1,6 @@
 1. activitytype
-   Label of Activity
+
+ Activity Label
   * WALKING
   * WALKING_UPSTAIRS
   * WALKING_DOWNSTAIRS
@@ -7,7 +8,8 @@
   * STANDING
   * LAYING
 1. activityid
-   Activity ID value for easy joining
+
+ Activity ID value for easy joining
 1. subject
    Subject ID
 1. mean.tbodyacc-mean-z
